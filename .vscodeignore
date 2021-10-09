@@ -1,0 +1,14 @@
+.vscode/**
+.github/**
+typings/**
+out/test/**
+docs-src/**
+test/**
+src/**
+ci/**
+private/**
+**/*.map
+.gitignore
+tsconfig.json
+vsc-extension-quickstart.md
+images/tutorial/**
